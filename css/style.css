@@ -1,0 +1,96 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+.main-header {
+    display: flex;
+}
+
+.color {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+}
+
+.left-header {
+    width: 50%;
+    padding-left: 200px;
+    margin-top: 70px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.button {
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 15px;
+    border-radius: 30px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.right-header img {
+    width: 80%;
+}
+
+.two-part {
+    background-image: url(../images/7.png);
+    width: 100%;
+}
+
+.two-part img {
+    width: 100%;
+    padding-left: 145px;
+    margin-top: 70px;
+}
+
+.about {
+    padding-left: 300px;
+    margin-top: 150px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.text {
+    text-align: center;
+}
+
+.text h3 {
+    font-size: 30px;
+}
+
+.text p {
+    padding: 20px;
+}
+
+.rp-about {
+    display: flex;
+    width: auto;
+    justify-content: center;
+}
+
+.pic-reci {
+    margin: 5px;
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.reci-img img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100%;
+}
+
+.pic-reci h4 {
+    font-size: 25px;
+}
